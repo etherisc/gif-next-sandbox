@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/etherisc/gif-next-sandbox#readme",
   "devDependencies": {
-    "@etherisc/gif-next": "0.0.2-e0ff180-567",
+    "@etherisc/gif-next": "0.0.2-7edd44f",
     "@nomicfoundation/hardhat-foundry": "^1.1.1",
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "@typescript-eslint/eslint-plugin": "^7.1.0",
