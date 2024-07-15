@@ -24,7 +24,7 @@
     "@etherisc/gif-next": "0.0.2-e0ff180-567",
     "@nomicfoundation/hardhat-foundry": "^1.1.2",
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "@typescript-eslint/eslint-plugin": "^7.14.1",
+    "@typescript-eslint/eslint-plugin": "^7.16.1",
     "@typescript-eslint/parser": "^7.14.1",
     "dotenv": "^16.3.1",
     "eslint": "^8.50.0",
