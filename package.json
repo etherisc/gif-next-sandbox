@@ -25,7 +25,7 @@
     "@nomicfoundation/hardhat-foundry": "^1.1.2",
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "@typescript-eslint/eslint-plugin": "^7.14.1",
-    "@typescript-eslint/parser": "^7.14.1",
+    "@typescript-eslint/parser": "^7.17.0",
     "dotenv": "^16.3.1",
     "eslint": "^8.50.0",
     "hardhat": "^2.22.5",
